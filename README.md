@@ -22,8 +22,11 @@ flowchart LR
      verification] --> C[Task 3: Day-of 
      contingency 
      & run-of-show]
-    B[Task 2: RSVP processing & seating] --> C
-    A --> D[Task 4: Master Coordinator briefing]
+    B[Task 2: RSVP processing
+     & seating] --> C
+    A --> D[Task 4: Master 
+    Coordinator 
+    briefing]
     B --> D
     C --> D
 ```
