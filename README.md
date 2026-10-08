@@ -17,7 +17,11 @@ RSVPs into a conflict-free seating plan, and re-plan the wedding day when someth
 
 ```mermaid
 flowchart LR
-    A[Task 1: Vendor contract verification] --> C[Task 3: Day-of contingency & run-of-show]
+    A[Task 1: Vendor
+     contract
+     verification] --> C[Task 3: Day-of 
+     contingency 
+     & run-of-show]
     B[Task 2: RSVP processing & seating] --> C
     A --> D[Task 4: Master Coordinator briefing]
     B --> D
